@@ -15,5 +15,3 @@ Follows production-ready best practices with environment variable handling, stru
 - **Secure key management** (no secrets committed)
 
 ---
-
-## 📂 Project Structure
