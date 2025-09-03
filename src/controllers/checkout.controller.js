@@ -48,4 +48,6 @@ const getCheckoutSession = async (req, res) => {
         sendResponse(res, 500, false, "Error retrieving stripe checkout.", null)
     }
 }
+
+
 module.exports = { createCheckoutSession, getCheckoutSession };
